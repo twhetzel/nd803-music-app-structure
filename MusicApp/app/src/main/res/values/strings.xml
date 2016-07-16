@@ -3,4 +3,8 @@
     <string name="artists">Artists</string>
     <string name="albums">Albums</string>
     <string name="playlists">Playlists</string>
+
+    <string name="artists_description">An activity to pick songs based on artist or band.</string>
+    <string name="albums_description">An activity to pick songs based on album.</string>
+    <string name="playlists_description">An activity to display user\'s saved Playlists.</string>
 </resources>
